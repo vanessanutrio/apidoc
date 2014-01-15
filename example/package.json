@@ -1,7 +1,7 @@
 {
-  "name": "apidoc-example",
-  "version": "0.3.0",
-  "description": "apidoc example project",
+  "name": "Nutrio Web Services",
+  "version": "1.0.0",
+  "description": "Nutrio Web Services offers an HTTP API leveraging the standards of REST, CRUD, and JSON.",
   "apidoc": "This is a description, it will be ignored if parameter apidocFilename exist.",
   "apidocFilename": "API.md"
 }
